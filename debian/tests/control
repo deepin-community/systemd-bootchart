@@ -1,0 +1,3 @@
+Tests: bootchart
+Restrictions: needs-root, isolation-machine
+
